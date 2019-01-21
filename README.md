@@ -7,7 +7,7 @@ This is a version of the Juma Editor tool that has been specialised for use in t
 ## Required Software
 
 - MySQL Server v5.7
-- Apache Maven vv3.2.5 (or later)
+- Apache Maven v3.2.5 (or later)
 - Java v1.7 (or later)
 
 ## Configuration and Running of Juma
