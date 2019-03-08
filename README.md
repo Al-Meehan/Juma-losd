@@ -39,7 +39,7 @@ This software is released under the [MIT license](http://opensource.org/licenses
 
 ## More information
 
-Code based on the work developed by [Ademar Crotti Junior](https://www.scss.tcd.ie/~crottija/juma/). 
+Code based on the work developed by [Ademar Crotti Junior](https://www.scss.tcd.ie/~crottija/juma/), see the original work [here](https://opengogs.adaptcentre.ie/crottija/juma-r2rml/). 
 
 To reference Juma please use the following:
 
