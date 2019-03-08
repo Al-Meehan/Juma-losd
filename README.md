@@ -34,3 +34,13 @@ The 'juma_TestUser_Mappings_dump.sql' file is a dump containing a number of exam
 
 ## License
 This software is released under the [MIT license](http://opensource.org/licenses/MIT).
+
+-----
+
+## More information
+
+Code based on the work developed by [Ademar Crotti Junior](https://www.scss.tcd.ie/~crottija/juma/). 
+
+To reference this work please use the following:
+
+A. Crotti Junior, C. Debruyne and D. O'Sullivan, "Juma Uplift: Using a Block Metaphor for Representing Uplift Mappings," 2018 IEEE 12th International Conference on Semantic Computing (ICSC), Laguna Hills, CA, 2018, pp. 211-218. Doi: 10.1109/ICSC.2018.00037.
