@@ -28,7 +28,7 @@ How to configure and run Juma:
 
 5. In a web browser, go to http://localhost:8080 (or to whatever port you specified).
 
-## Dump File with Examlpe Mappings
+## Dump File with Example Mappings
 
 The 'juma_TestUser_Mappings_dump.sql' file is a dump containing a number of example mappings for the conversion of HC55, LFS, and SILC statistical datasets. Simply import the the dump file to the mysql server and create a juma user with the name: 'TestUser'.
 
